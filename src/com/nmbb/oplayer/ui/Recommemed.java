@@ -63,7 +63,7 @@ public class Recommemed extends Fragment {
 	
 	public void initVideoFromVke(){
 		
-		Log.e("zhouchaoyuan", "initVideoFromVke");
+//		Log.e("zhouchaoyuan", "initVideoFromVke");
 		
 		// ~~~后台加载视频,没有加载过才继续加载
 		if(MyAsyncTask.mList.size()==0){
