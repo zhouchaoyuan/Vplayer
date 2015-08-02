@@ -13,4 +13,4 @@ Android平台基于Vitamio的开源播放器，引用自Oplayer
 
 ==
 Vitamio官网：
-vitamio.org
+https://www.vitamio.org/
